@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ErnstUndFalkStylesheet.xslt"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ger">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Ernst und Falk
+				</title>
+				<author>
+					<persName>
+						<forename>
+							Gotthold
+							Ephraim
+						</forename>
+						<surname>
+							Lessing
+						</surname>
+					</persName>
+				</author>
+				<editor role="editor" xml:id="OM">
+					OM
+				</editor>
+				<respStmt>
+					<name>
+						OM
+					</name>
+					<resp>
+						encoding
+					</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					OMs Digitalverlag
+				</publisher>
+				<pubPlace>
+					Göttingen
+				</pubPlace>
+				<date>
+					2023
+				</date>
+				<availability>
+					<licence>
+						<ab>
+							CC0 1.0
+						</ab>
+						<ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+							Licence
+						</ref>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>
+						Ernst und Falk
+					</title>
+					<author>
+						Gotthold Ephraim Lessing
+					</author>
+					<idno type="URI">
+						https://www.digitale-sammlungen.de/en/view/bsb10435413?page=24
+					</idno>
+					<idno>
+						Munich DigitiZation Center
+					</idno>
+					<bibl type="originalSource">
+						<title>
+							Gotthold Ephraim Lessing: Ernst und Falk : Gespräche für Freimaurer,
+							Hannover: 1855.
+						</title>
+					</bibl>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic url="https://www.digitale-sammlungen.de/en/view/bsb10435413?page=24" />
+	</facsimile>
+	<text>
+		<body>
+			<pb n="12" />
+			<head>
+				Erstes Gespräch
+			</head>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Woran denkst du, Freund?
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					An nichts.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Aber du bist so still.
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					Eben darum. Wer denkt, wenn er genießt? Und ich genieße
+					des erquickenden Morgens.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Du hast Recht; und du hättest mir meine Frage nur zurückgeben dürfen.
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					Wenn ich an etwas dächte, würde ich darüber sprechen. Nichts geht über das
+					<hi rend="italic">
+						laut denken
+					</hi>
+					mit einem Freunde.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Gewiß.
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					Hast
+					<hi rend="italic">
+						du
+					</hi>
+					des schönen Morgens schon genug genossen; fällt
+					<hi rend="italic">
+						dir
+					</hi>
+					etwas ein: so sprich du. Mir fällt nichts ein.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Gut das! – Mir fällt ein, daß ich dich schon längst um etwas fragen wollen.
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					So frage doch.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Ist es wahr, Freund, daß du ein Freimäurer bist?
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					Die Frage ist eines der keiner ist.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Freylich! – Aber antworte mir gerader zu. – Bist du ein Freimäurer?
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					Ich glaube es zu sein.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Die Antwort ist eines, der seiner Sache eben nicht gewiß ist.
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					O doch! Ich bin meiner Sache so ziemlich gewiß.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Denn du wirst ja wohl wissen, ob und wenn und wo und von wem du aufgenommen
+					worden.
+				</p>
+			</sp>
+			<sp who="#falk">
+				<speaker>
+					FALK.
+				</speaker>
+				<p>
+					Das weiß ich allerdings; aber das würde so viel nicht sagen wollen.
+				</p>
+			</sp>
+			<sp who="#ernst">
+				<speaker>
+					ERNST.
+				</speaker>
+				<p>
+					Nicht?
+				</p>
+			</sp>
+		</body>
+	</text>
+</TEI>
